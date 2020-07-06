@@ -18,7 +18,7 @@ To achieve this we have used Win32 API and concepts of C language. First the per
 ## Technologies
 
 Project is created with:
-* .NET Framework along with bits of C++ 
+* .NET Framework along with C++ and C
 * Windows Win32 API
 * Visual Studio Code
 
