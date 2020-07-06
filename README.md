@@ -14,3 +14,10 @@ An Automated Teller Machine(ATM) is a computer based machine, connected to a net
 
 Here we need to simulate all activities of ATM like Login, Various Transaction, etc.
 To achieve this we have used Win32 API and concepts of C language. First the person should insert the card and enter the pin to login and the details of the account will be displayed on the parent/main window (previously saved data) and the transaction options arise these options are buttons which is by creating child window of predefined dimensions, and by selecting an option we can do atm transactions and the balance will be updated with the help of c language.
+
+## Technologies
+
+Project is created with:
+* .NET Framework along with bits of C++ 
+* Windows Win32 API
+* Visual Studio Code
