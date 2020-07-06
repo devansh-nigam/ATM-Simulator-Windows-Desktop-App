@@ -2,11 +2,11 @@
 
 ATM Simulator. This has to simulate most of the activities which happen at an ATM. It is assumed that the account details of all the account holders would be stored in a file which gets used by this simulator.
 
-i) Log in using a username and a password. 
-ii) Look at the balance statement 
-iii) Withdraw money - the balance should be checked and updated. 
-iv)Allow the user to change the password (PIN) 
-v) Deposit money
+* i) Log in using a username and a password. 
+* ii) Look at the balance statement 
+* iii) Withdraw money - the balance should be checked and updated.
+* iv)Allow the user to change the password (PIN) 
+* v) Deposit money
 
 ## Description
 
