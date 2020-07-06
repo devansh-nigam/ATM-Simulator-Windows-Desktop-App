@@ -22,6 +22,10 @@ Project is created with:
 * Windows Win32 API
 * Visual Studio Code
 
+## Setup
+
+To run the code, clone or download the repo and open it using Visual Studio 2019 Community Edition
+
 ## Video 
 
 [![ATM Simulator Video]()](https://drive.google.com/file/d/17CuD8Et8DcEWfsGBv8_E5NdgIpvpfTAT)
