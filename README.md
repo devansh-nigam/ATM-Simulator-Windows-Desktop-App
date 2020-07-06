@@ -24,4 +24,5 @@ Project is created with:
 
 ## Video 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/17CuD8Et8DcEWfsGBv8_E5NdgIpvpfTAT)
 ![ATM-Simulator Video](https://drive.google.com/file/d/17CuD8Et8DcEWfsGBv8_E5NdgIpvpfTAT/view)
