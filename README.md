@@ -24,4 +24,4 @@ Project is created with:
 
 ## Video 
 
-![Algorithm schema](./images/schema.jpg)
+![ATM-Simulator Video](https://drive.google.com/file/d/17CuD8Et8DcEWfsGBv8_E5NdgIpvpfTAT/view)
