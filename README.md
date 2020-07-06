@@ -21,3 +21,7 @@ Project is created with:
 * .NET Framework along with bits of C++ 
 * Windows Win32 API
 * Visual Studio Code
+
+## Video 
+
+![Algorithm schema](./images/schema.jpg)
