@@ -8,7 +8,7 @@ iii) Withdraw money - the balance should be checked and updated.
 iv)Allow the user to change the password (PIN) 
 v) Deposit money
 
-                                                                        Description
+                                                                       #Description
 
 An Automated Teller Machine(ATM) is a computer based machine, connected to a network, that offers some basic functions to user as to access their bank accounts, check their balance, transfer and retrieval of money. ATMs are convenient, allowing consumers to perform quick, self-serve transactions from everyday banking like deposits and withdrawals to more complex transactions like bill payments and transfers.
 
